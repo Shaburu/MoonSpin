@@ -15,4 +15,4 @@ Next.js, Convex, OpenAI, DALL-E, Filecoin lighthouse
 ![1](https://github.com/Shaburu/MoonSpin/assets/67481819/2bba97ed-a0e0-4ddf-b825-717a2b75941c)
 ![01](https://github.com/Shaburu/MoonSpin/assets/67481819/74581e21-cd4f-47c7-b328-8de445a3b754)
 
-# :D 
+# SetUp
