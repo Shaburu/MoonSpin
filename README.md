@@ -14,5 +14,22 @@ Next.js, Convex, OpenAI, DALL-E, Filecoin lighthouse
 ![2](https://github.com/Shaburu/MoonSpin/assets/67481819/607b59bb-a701-449f-8cab-3ec5df065bf9)
 ![1](https://github.com/Shaburu/MoonSpin/assets/67481819/2bba97ed-a0e0-4ddf-b825-717a2b75941c)
 ![01](https://github.com/Shaburu/MoonSpin/assets/67481819/74581e21-cd4f-47c7-b328-8de445a3b754)
+![coin2](https://github.com/Shaburu/MoonSpin/assets/67481819/9e84df90-dce9-42ba-a66c-ba532139d0a2)
+![coin1](https://github.com/Shaburu/MoonSpin/assets/67481819/b811e821-ce03-4392-a3b9-bdad646a396e)
 
 # SetUp
+First install the requirements for the SD Pipeline
+```
+cd <dir>
+pip install -r requirements.txt
+```
+
+Then run the deployment server
+```
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
